@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working on a fintech application using Typescript and Node.js. <br>I'm looking to collaborate on software development and testing-related content.<br>I'm looking forward to working with a motivational team and a challenging environment. <br>I'm currently learning Robotics and Automation with C++.<br>Ask me about Embedded systems and automation<br>Fun fact - I am an easygoing person 
+I build intelligent robotic systems using Python, ROS2, and deep learning frameworks.
+I also develop web-based interfaces and APIs to deploy, monitor, and scale AI-powered robotic applications.
 
 
 ## 🌐 Socials:
